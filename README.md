@@ -2,7 +2,7 @@ Güvenlik Kamera Kontrol Uygulaması
 
 Bu proje, IP tabanlı güvenlik kameralarının bağlantı durumlarını anlık olarak takip etmek amacıyla geliştirilmiş bir masaüstü uygulamadır. Python ve Tkinter kullanılarak geliştirilen bu yazılım, Excel üzerinden alınan IP listesi ile belirli aralıklarla bağlantı kontrolü sağlar. Uygulama ayrıca:
 
-Kameraların bağlantı durumlarını renkli ikonlarla gösterir (yeşil, sarı, siyah).
+Kameraların bağlantı durumlarını renkli ikonlarla gösterir (yeşil, sarı, kırmızı).
 
 Son bağlantı kesilme zamanını kullanıcıya tooltip olarak sunar.
 
